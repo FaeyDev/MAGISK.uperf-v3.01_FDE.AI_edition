@@ -6,7 +6,7 @@ DO NOT COMBINE WITH ANY PERFORMANCE MODULE
 How to use?
 
 - Install Module
-- Give EnCorinVest apk root access
+- Reboot Device
 - Done
 
 Contact Me? <br />
